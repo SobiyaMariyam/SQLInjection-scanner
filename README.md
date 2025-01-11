@@ -95,4 +95,6 @@ pip install -r requirements.txt
 ## Disclaimer
 This tool is intended for educational purposes and authorized penetration testing only. Ensure you have proper permission before scanning any web application.
 
+## Output Example
+![Uploading Screenshot 2025-01-11 115926.png…]()
 
