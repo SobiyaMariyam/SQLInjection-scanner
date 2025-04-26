@@ -12,7 +12,7 @@
 ***MENTOR NAME***: Neela Santhosh
 
 ***DESCRIPTION OF TASK-2***
-# WEB-APPLICATION-VULNERABILITY-SCANNER
+# SQLInjection-scanner
 ## Objective
 This Python-based **Web Application Vulnerability Scanner** is designed to identify common security vulnerabilities in web applications. It automates the process of testing for **SQL Injection**, **Cross-Site Scripting (XSS)**, and checks for the presence of common **admin panels**. The tool is useful for cybersecurity professionals and penetration testers to quickly assess the security posture of web applications.
 
