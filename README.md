@@ -1,4 +1,4 @@
-# WEB-APPLICATION-VULNERABILITY-SCANNER
+# SQLInjection-scanner
 ***COMPANY***: CDETECH IT SOLUTION
 
 ***NAME***: Sobiya vhora
